@@ -43,7 +43,7 @@ public class Arrays01 {
         }
 
         //Bir array olusturunuz. Bu array'in index'i cift sayi olan elemanlarini while loop
-        //kullanarak ekrana ayni satirda ve aralarina bosluk koyarak yaziniz
+        //kullanarak ekrana ayni satirda ve aralarina bosluk koyarak yaziniz...
         int arr5[] = {23, 24, 25, 26, 27, 28, 29};
 
         int i = 0;
