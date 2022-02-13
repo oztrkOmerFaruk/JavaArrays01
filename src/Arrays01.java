@@ -21,6 +21,7 @@ public class Arrays01 {
         //Run Time Error alirsiniz. Yani; kodu calistirdiktan sonra console'da kirmizi
         //hata mesaji gorursunuz. Kodu yazarken kirmizi alt cizgi almazsaniz.
         //Ornegin; arr1[3] = 13; kod calistiktan sonra "ArrayIndexOutOfBoundsException" hatasi verir.
+        //Arrayler önemli
 
         //Kisa yoldan array olusturup deger atama
         int arr2[] = {8, 10, 12, 14};
